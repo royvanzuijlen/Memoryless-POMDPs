@@ -1,1 +1,1 @@
-The MATLAB code belongs to the paper "Memoryless Policy Itteration for Episodic POMDPs".
+The MATLAB code belongs to the paper "Memoryless Policy Iteration for Episodic POMDPs".
